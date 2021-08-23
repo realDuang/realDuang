@@ -7,6 +7,10 @@ Frontend engineer & Open source believer
 - 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs)
 - 💬 Ask me about anything at [here](https://github.com/realDuang/blog/issues)
 
+![realDuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDuang&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **realDuang/realDuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
