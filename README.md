@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm [Duang](https://www.zakum.cn/)~👋
+
+Frontend engineer & Open source believer
+
+- 🔭 Currently working on [leetcode-in-javascript](https://github.com/realDuang/leetcode-in-javascript)
+- 🌱 Currently learning TypeScript & Docker
+- 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs)
+- 💬 Ask me about anything at [here](https://github.com/realDuang/blog/issues)
 
 <!--
 **realDuang/realDuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
