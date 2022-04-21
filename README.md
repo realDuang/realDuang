@@ -2,7 +2,7 @@
 
 Frontend engineer & Open source believer
 
-- 🔭 Currently working on [Dockerized Web Server](https://github.com/realDuang/dockerized-web-service) (will open source soon)
+- 🔭 Currently working on [Dockerized Web Service](https://github.com/realDuang/dockerized-web-service) (will open source soon)
 - 🌱 Currently learning TypeScript & Docker
 - 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs) and [react-router-breadcrumb](https://github.com/realDuang/react-router-breadcrumb)
 - 💬 Ask me about anything at [here](https://github.com/realDuang/blog/issues)
