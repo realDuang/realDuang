@@ -2,10 +2,11 @@
 
 Frontend engineer & Open source believer
 
-- 🔭 Currently working on [leetcode-in-javascript](https://github.com/realDuang/leetcode-in-javascript)
+- 🔭 Currently working on [Dockerized Web Server](https://github.com/realDuang/dockerized-web-service) (will open source soon)
 - 🌱 Currently learning TypeScript & Docker
-- 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs)
+- 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs) and [react-router-breadcrumb](https://github.com/realDuang/react-router-breadcrumb)
 - 💬 Ask me about anything at [here](https://github.com/realDuang/blog/issues)
+- 📫 How to reach me: [kelekexiao987@gmail.com](kelekexiao987@gmail.com)
 
 ![realDuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDuang&count_private=true&show_icons=true)
 
