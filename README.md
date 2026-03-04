@@ -2,9 +2,9 @@
 
 Web full stack development engineer & Serverless believer
 
-- 🔭 I’m currently working on [SynapseVSCode](https://github.com/microsoft/SynapseVSCode)
+- 🌱 Currently putting AI coding into practice.
+- 🔭 I’m currently working on [CodeMux](https://github.com/realDuang/codemux) and [SynapseVSCode](https://github.com/microsoft/SynapseVSCode)
 - 👯 Looking to collaborate on [genjijs](https://github.com/realDuang/genjijs) and [react-router-breadcrumb](https://github.com/realDuang/react-router-breadcrumb)
-- 🌱 Currently learning Spark & Docker
 - 💬 Ask me about anything at [here](https://github.com/realDuang/blog/issues)
 - 📫 How to reach me: [kelekexiao987@gmail.com](kelekexiao987@gmail.com)
 
